@@ -4,6 +4,11 @@ Welcome to my GitHub! I graduated Biomedical Engineering, but i fell in love wit
 
 <img align="right" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif">
 
+:books: **I have basic knowledge of**
+- HTML
+- CSS
+- Angular
+
 :fire: **I'm currently learning**
 - React
 - JavaScript
@@ -17,8 +22,8 @@ Welcome to my GitHub! I graduated Biomedical Engineering, but i fell in love wit
 - Get first job in IT (or internship)
 
 :tea: **Get in touch**
-- Linkedin:
-- Website:
+- [Linkedin](https://www.linkedin.com/in/weronika-gajska/)
+- [Website](https://www.gajska.pl)
 
 <!--
 **gajfska/gajfska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
