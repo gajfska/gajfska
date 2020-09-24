@@ -4,7 +4,7 @@ Welcome to my GitHub! I graduated Biomedical Engineering, but i fell in love wit
 
 <img align="right" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif">
 
-:books: **I have basic knowledge of**
+:books: **Skills:**
 - HTML
 - CSS
 - Angular
