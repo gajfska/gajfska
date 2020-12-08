@@ -12,6 +12,7 @@ Welcome to my GitHub! I graduated Biomedical Engineering, but i fell in love wit
 :fire: **I'm currently learning**
 - React
 - JavaScript
+- Java
 
 :computer: **I'm working on**
 - building first project in React. It will be To Do List.
@@ -19,7 +20,6 @@ Welcome to my GitHub! I graduated Biomedical Engineering, but i fell in love wit
 :bulb: **Goals for 2020**
 - Become skilled in JavaScript
 - Complete coding my all private projects
-- Get first job in IT (or internship)
 
 :tea: **Get in touch**
 - [Linkedin](https://www.linkedin.com/in/weronika-gajska/)
