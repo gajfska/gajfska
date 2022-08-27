@@ -17,7 +17,7 @@ Welcome to my GitHub! I graduated Biomedical Engineering, but i fell in love wit
 :computer: **I'm working on**
 - building first project in React. It will be To Do List.
 
-:bulb: **Goals for 2020**
+:bulb: **Goals for 2022**
 - Become skilled in JavaScript
 - Complete coding my all private projects
 
