@@ -17,7 +17,7 @@ Welcome to my GitHub! I graduated Biomedical Engineering, but i fell in love wit
 :computer: **I'm working on**
 - building first project in React Native
 
-:bulb: **Goals for 2024**
+:bulb: **Goals for 2025**
 - Become skilled in AI
 - Complete coding my all private projects
 
