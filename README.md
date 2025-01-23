@@ -9,6 +9,7 @@ Welcome to my GitHub! I graduated Biomedical Engineering, but i fell in love wit
 - CSS
 - Angular
 - React
+- WCAG
 
 :fire: **I'm currently learning**
 - Java
